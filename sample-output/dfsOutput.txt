@@ -1,0 +1,102 @@
+Solving for board size 5 with strategy of DepthFirst.
+Depth: 0
+     O
+    O O
+   O X O
+  O O O O
+ O O O O O
+
+Depth: 1
+     O
+    O O
+   O O O
+  O O X O
+ O O O X O
+
+Depth: 2
+     O
+    O O
+   O O O
+  O O X O
+ O X X O O
+
+Depth: 3
+     O
+    O O
+   O O O
+  X X O O
+ O X X O O
+
+Depth: 4
+     O
+    O O
+   O O X
+  X X O O
+ O X X O O
+
+Depth: 5
+     O
+    O O
+   O O O
+  X X O X
+ O X X O X
+
+Depth: 6
+     O
+    O O
+   O O X
+  X X X X
+ O X O O X
+
+Depth: 7
+     O
+    O O
+   O O X
+  X X X X
+ O O X X X
+
+Depth: 8
+     O
+    O O
+   O O X
+  X X X X
+ X X O X X
+
+Depth: 9
+     O
+    O X
+   O X X
+  X O X X
+ X X O X X
+
+Depth: 10
+     O
+    X X
+   X X X
+  O O X X
+ X X O X X
+
+Depth: 11
+     O
+    X X
+   O X X
+  O X X X
+ X X X X X
+
+Depth: 12
+     O
+    O X
+   X X X
+  X X X X
+ X X X X X
+
+Depth: 13
+     X
+    X X
+   O X X
+  X X X X
+ X X X X X
+
+Final board state (Depth: 13)
+Elapsed time: 12 milliseconds.
+Press Enter to exit...

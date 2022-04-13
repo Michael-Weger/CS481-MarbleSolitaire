@@ -1,0 +1,102 @@
+Solving for board size 5 with strategy of BreadthFirst.
+Depth: 0
+     O
+    O O
+   O X O
+  O O O O
+ O O O O O
+
+Depth: 1
+     O
+    O O
+   O O O
+  O X O O
+ O X O O O
+
+Depth: 2
+     O
+    O O
+   O O O
+  O X O O
+ O O X X O
+
+Depth: 3
+     O
+    O O
+   O O X
+  O X O O
+ O O X X O
+
+Depth: 4
+     O
+    O O
+   X X O
+  O X O O
+ O O X X O
+
+Depth: 5
+     X
+    X O
+   O X O
+  O X O O
+ O O X X O
+
+Depth: 6
+     X
+    X O
+   O X X
+  O X O O
+ O O X X O
+
+Depth: 7
+     X
+    O O
+   X X X
+  X X O O
+ O O X X O
+
+Depth: 8
+     X
+    O O
+   X X O
+  X X O X
+ O O X X X
+
+Depth: 9
+     X
+    O O
+   X X X
+  X X O X
+ O O X X X
+
+Depth: 10
+     X
+    O O
+   X X X
+  X X O X
+ X X O X X
+
+Depth: 11
+     X
+    O O
+   X X O
+  X X X X
+ X X X X X
+
+Depth: 12
+     O
+    O X
+   X X X
+  X X X X
+ X X X X X
+
+Depth: 13
+     X
+    X X
+   O X X
+  X X X X
+ X X X X X
+
+Final board state (Depth: 13)
+Elapsed time: 32710 milliseconds.
+Press Enter to exit...

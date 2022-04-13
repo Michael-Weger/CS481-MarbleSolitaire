@@ -1,0 +1,13 @@
+Solving for board size 5 with strategy of BreadthFirst.
+Operating in data collection mode. Averaging over 10 trials.
+[Trial 0]: Elapsed time: 30662 milliseconds.
+[Trial 1]: Elapsed time: 30885 milliseconds.
+[Trial 2]: Elapsed time: 35346 milliseconds.
+[Trial 3]: Elapsed time: 34697 milliseconds.
+[Trial 4]: Elapsed time: 29820 milliseconds.
+[Trial 5]: Elapsed time: 29211 milliseconds.
+[Trial 6]: Elapsed time: 31246 milliseconds.
+[Trial 7]: Elapsed time: 29965 milliseconds.
+[Trial 8]: Elapsed time: 33564 milliseconds.
+[Trial 9]: Elapsed time: 29212 milliseconds.
+[Average]: Elapsed time: 31460 milliseconds.
